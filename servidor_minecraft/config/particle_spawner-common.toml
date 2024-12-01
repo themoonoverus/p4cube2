@@ -1,0 +1,11 @@
+
+#General
+[general]
+	#Enables ingame rewards on first spawn for Patreons
+	patreon_rewards = true
+
+#Blocks
+[blocks]
+	#true = ignores the graphic settings and spawn always all particles
+	always_render_particles = true
+
